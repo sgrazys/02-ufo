@@ -64,10 +64,6 @@ There is no tests for this project.
 
 Saulius: [Github](https://github.com/sgrazys)
 
-## ⚠️ License
-
-Distributed under the ISC License. See LICENSE.txt for more information.
-
 ## 🔗 Other resources
 
 No other resouces.
