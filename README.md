@@ -1,8 +1,3 @@
-![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
-![Security Status](https://img.shields.io/security-headers?label=Security&url=https%3A%2F%2Fgithub.com&style=flat-square)
-![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
-![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
-[![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
 # UFO
 
@@ -12,17 +7,17 @@ _website design project_
 
 ## 🌟 About
 
-This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+This is my first HTML and CSS project.
 
-Site published at: https://front-end-by-rimantas.github.io/41-grupe-ufo/
+Web page published at: [sgrazys.github.io/02-ufo/](https://sgrazys.github.io/02-ufo/)
 
-Design: [UFO](./img/design.png)
+Design: [UFO](./img/design.jpg)
 
 ## 🎯 Project features/goals
 
 -   Github pages
--   basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and CSS (style)
--   [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-   Basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and [CSS (style)](https://www.w3schools.com/html/html_css.asp)
+-   [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## 🧰 Getting Started
 
@@ -46,18 +41,18 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/41-grupe-ufo.git
+    git clone https://github.com/sgrazys/02-ufo.git
     ```
 2. Install NPM packages
-    ```sh
+    ```
     npm i
     ```
     or
-    ```sh
+    ```
     npm install
     ```
 3. Run the server
-    ```sh
+    ```
     npm run dev
     ```
 
@@ -65,14 +60,19 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 There is no tests for this project.
 
-## 🎅 Authors
+## 🥸 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Saulius: [Github](https://github.com/sgrazys)
 
 ## ⚠️ License
 
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the ISC License. See LICENSE.txt for more information.
 
 ## 🔗 Other resources
 
 No other resouces.
+
+## 📫 Reach me
+- [LinkedIn](https://www.linkedin.com/in/saulius-grazys/)
+
+- [Mail](mailto:s.grazys@gmail.com)
